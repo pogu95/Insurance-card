@@ -65,3 +65,7 @@ input, select {
   color: #714740;
   background-color: crimson;
 }
+
+.random{
+  font-size: 30px;
+}
